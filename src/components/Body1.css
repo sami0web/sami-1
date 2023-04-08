@@ -1,0 +1,19 @@
+.Body1 {
+  background-color:gray;
+
+
+}
+
+
+@media screen and (max-width: 992px) {
+  .Body1{
+    background-color:blue;
+    
+  } }
+
+
+  @media screen and ( max-width: 600px) {
+    .Body1{
+      background-color:red;
+      
+    } }
